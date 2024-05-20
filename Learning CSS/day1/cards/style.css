@@ -1,0 +1,28 @@
+.card-container {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+    font-weight: 500;
+}
+
+.cards {
+    text-align: center;
+    margin: 2px;
+    border-top-width: 8px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 2%;
+    
+}
+
+#k{
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 200;
+}
+
+#paytm, #insta, #pine, #cred {
+    max-width: 150px;
+}
