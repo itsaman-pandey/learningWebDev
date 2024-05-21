@@ -22,7 +22,9 @@
   font-variation-settings:
     "wdth" 200;
 }
-
+p{
+    font-weight: 545;
+}
 #paytm, #insta, #pine, #cred {
     max-width: 150px;
 }
